@@ -1,6 +1,6 @@
 package com.ertugrul.interfaces;
 
-public abstract class Room{
-    abstract void Print();
+public interface Room{
+    void Print();
 
 }

@@ -2,9 +2,9 @@ package com.ertugrul.domain;
 
 import com.ertugrul.interfaces.Room;
 
-public class RoomB extends Room {
+public class RoomB implements Room {
     @Override
-    void Print() {
+    public void Print() {
         System.out.println("ROOM B");
     }
 }
