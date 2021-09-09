@@ -1,6 +1,8 @@
 package com.ertugrul.domain;
 
-public class HotelB extends Hotel{
+import com.ertugrul.interfaces.*;
+
+public class HotelB extends Hotel {
     @Override
     public Customer getCustomer() {
         return new CustomerB();

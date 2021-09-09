@@ -1,4 +1,6 @@
 package com.ertugrul.domain;
 
-public class PaymentB implements Payment{
+import com.ertugrul.interfaces.Payment;
+
+public class PaymentB implements Payment {
 }

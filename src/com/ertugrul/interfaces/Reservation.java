@@ -1,4 +1,4 @@
-package com.ertugrul.domain;
+package com.ertugrul.interfaces;
 
 public interface Reservation {
 }

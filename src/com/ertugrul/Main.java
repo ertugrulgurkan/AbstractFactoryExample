@@ -3,7 +3,7 @@ package com.ertugrul;
 import com.ertugrul.abstractfactory.HotelFactoryA;
 import com.ertugrul.abstractfactory.HotelFactoryB;
 import com.ertugrul.abstractfactory.HotelFactoryC;
-import com.ertugrul.domain.Hotel;
+import com.ertugrul.interfaces.Hotel;
 import com.ertugrul.factory.*;
 
 public class Main {

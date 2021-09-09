@@ -1,4 +1,6 @@
 package com.ertugrul.domain;
 
-public class ReservationB implements Reservation{
+import com.ertugrul.interfaces.Reservation;
+
+public class ReservationB implements Reservation {
 }

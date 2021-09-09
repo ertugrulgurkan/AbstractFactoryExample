@@ -1,4 +1,4 @@
-package com.ertugrul.domain;
+package com.ertugrul.interfaces;
 
 public abstract class Hotel {
     public abstract Customer getCustomer();

@@ -1,4 +1,6 @@
 package com.ertugrul.domain;
 
-public class CustomerA implements Customer{
+import com.ertugrul.interfaces.Customer;
+
+public class CustomerA implements Customer {
 }
